@@ -106,7 +106,7 @@ The **Temperature-Based Fan Speed Controller and Monitoring System** is designed
 
 ## Circuit Diagram
 
-To be added. *(Include a schematic diagram showing the connections between the ESP32, DS18B20, TIP120, fan, and other components.)*
+circuit.png
 
 ---
 
