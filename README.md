@@ -106,8 +106,7 @@ The **Temperature-Based Fan Speed Controller and Monitoring System** is designed
 
 ## Circuit Diagram
 
-(circuit.png)
-
+![Circuit Diagram](circuit.png)
 ---
 
 ## Usage
